@@ -86,6 +86,7 @@
 - [Touha Zohair](https://github.com/touha98)
 - [Gift Segun Adesigbin](https://github.com/giftade)
 - [Adeeb Rashid](https://github.com/adeeb18)
+- [Bunmi Oke](https://github.com/itisbunmioke)
 - [escaping-samsara] (https://github.com/escaping-samsara/)
 - [Jacques van Zyl](https://github.com/JacquesvZyl)
 - [Abiyyu Cakra](https://github.com/abiyyu03)
